@@ -1,0 +1,56 @@
+.button-container{
+    background-color: gray;
+    margin-top: 100px;
+}
+body{
+    background-color: black;
+    color: rgb(48, 205, 202);
+}
+.card{
+    background-color: black;
+    text-align: center;
+   
+}
+.contact-container{
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    border: none;
+    box-shadow: 4px 4px 8px gray;
+
+}
+.text-center {
+    margin-top: 50px;
+}
+.banner-container{
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+    
+}
+.input-box{
+    padding: 15px;
+    width: 30%;
+    margin-top: 15px;
+}
+.massage{
+    width: 20%;
+    height: 100px;
+    margin-top: 15px;
+}
+.submit-btn{
+    width: 8%;
+    height: 5%;
+    background-color: rgba(23, 209, 175, 0.93);
+    margin-top: 15px;
+}
+.box{
+    width: 50%;
+    gap: 15px;
+}
+.style{
+    margin-top: 20px;
+    text-align: center;
+}
